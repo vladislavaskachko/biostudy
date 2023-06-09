@@ -1,0 +1,27 @@
+C:\Users\79519\source\repos\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\79519\source\repos\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\79519\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.AssemblyReference.cache
+C:\Users\79519\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\79519\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form2.resources
+C:\Users\79519\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\79519\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\79519\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\79519\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\79519\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\79519\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form3.resources
+C:\Users\79519\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form4.resources
+C:\Users\79519\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form5.resources
+C:\Users\79519\OneDrive\Рабочий стол\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\79519\OneDrive\Рабочий стол\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\79519\OneDrive\Рабочий стол\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.AssemblyReference.cache
+C:\Users\79519\OneDrive\Рабочий стол\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\79519\OneDrive\Рабочий стол\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form2.resources
+C:\Users\79519\OneDrive\Рабочий стол\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form3.resources
+C:\Users\79519\OneDrive\Рабочий стол\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form4.resources
+C:\Users\79519\OneDrive\Рабочий стол\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form5.resources
+C:\Users\79519\OneDrive\Рабочий стол\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form6.resources
+C:\Users\79519\OneDrive\Рабочий стол\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\79519\OneDrive\Рабочий стол\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\79519\OneDrive\Рабочий стол\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\79519\OneDrive\Рабочий стол\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\79519\OneDrive\Рабочий стол\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
